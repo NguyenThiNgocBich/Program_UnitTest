@@ -1,4 +1,4 @@
-﻿using ConsoleApp1;
+﻿using Labrary1;
 
 namespace TestProject1
 {

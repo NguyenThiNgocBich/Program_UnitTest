@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ngocb\\source\\repos\\Labrary1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "E:\\Program_UnitTest\\Program_UnitTest\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ngocb\\source\\repos\\Labrary1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "E:\\Program_UnitTest\\Program_UnitTest\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ngocb\\source\\repos\\Labrary1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "E:\\Program_UnitTest\\Program_UnitTest\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\ngocb\\source\\repos\\Labrary1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "E:\\Program_UnitTest\\Program_UnitTest\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\ngocb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ngocb\\source\\repos\\Labrary1\\ConsoleApp1\\obj\\",
+        "outputPath": "E:\\Program_UnitTest\\Program_UnitTest\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ngocb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ngocb\\source\\repos\\Labrary1\\Labrary1\\Labrary1.csproj": {
-                "projectPath": "C:\\Users\\ngocb\\source\\repos\\Labrary1\\Labrary1\\Labrary1.csproj"
+              "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\Labrary1.csproj": {
+                "projectPath": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\Labrary1.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\ngocb\\source\\repos\\Labrary1\\Labrary1\\Labrary1.csproj": {
+    "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\Labrary1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ngocb\\source\\repos\\Labrary1\\Labrary1\\Labrary1.csproj",
+        "projectUniqueName": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\Labrary1.csproj",
         "projectName": "Labrary1",
-        "projectPath": "C:\\Users\\ngocb\\source\\repos\\Labrary1\\Labrary1\\Labrary1.csproj",
+        "projectPath": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\Labrary1.csproj",
         "packagesPath": "C:\\Users\\ngocb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ngocb\\source\\repos\\Labrary1\\Labrary1\\obj\\",
+        "outputPath": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ngocb\\AppData\\Roaming\\NuGet\\NuGet.Config",

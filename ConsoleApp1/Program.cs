@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using ClassLibrary1;
-using ConsoleApp1;
+using System.Globalization;
+using Labrary1;
+
 
 Console.WriteLine("Hello, World!");
 
@@ -41,4 +42,21 @@ Console.WriteLine("Max mua trong nam: " + Max);
 
 double Min = LuongMua.Min(thang);
 Console.WriteLine("Min mua trong nam: " + Min);
+
+int[] Numbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 };
+int totalNumber = NumberAnalysisProgram.NumberAnalysis(Numbers);
+Console.WriteLine("Tong cac so trong mang: " + totalNumber);
+
+float average = NumberAnalysisProgram.AvarageNumber(Numbers);
+Console.WriteLine("Trung binh day so: "+ average);
+
+int max = NumberAnalysisProgram.Max(Numbers);
+Console.WriteLine(" so lon nhat : " + max);
+
+int min = NumberAnalysisProgram.Min(Numbers);
+Console.WriteLine(" so nho nhat : " + min);
+
+
+
+
 

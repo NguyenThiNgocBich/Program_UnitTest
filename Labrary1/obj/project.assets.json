@@ -1002,11 +1002,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ngocb\\source\\repos\\Labrary1\\Labrary1\\Labrary1.csproj",
+      "projectUniqueName": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\Labrary1.csproj",
       "projectName": "Labrary1",
-      "projectPath": "C:\\Users\\ngocb\\source\\repos\\Labrary1\\Labrary1\\Labrary1.csproj",
+      "projectPath": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\Labrary1.csproj",
       "packagesPath": "C:\\Users\\ngocb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ngocb\\source\\repos\\Labrary1\\Labrary1\\obj\\",
+      "outputPath": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ngocb\\AppData\\Roaming\\NuGet\\NuGet.Config",

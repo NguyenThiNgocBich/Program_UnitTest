@@ -1,18 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ngocb\\source\\repos\\Labrary1\\",
+  "WorkspaceRootPath": "E:\\Program_UnitTest\\Program_UnitTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA0C0DA7-177F-4DD0-9D46-DBFC5182404D}|TestSales\\TestProject1.csproj|c:\\users\\ngocb\\source\\repos\\labrary1\\testsales\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA0C0DA7-177F-4DD0-9D46-DBFC5182404D}|TestSales\\TestProject1.csproj|solutionrelative:testsales\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA4C4C93-512E-447D-895A-991A32BE7074}|ConsoleApp1\\ConsoleApp1.csproj|e:\\program_unittest\\program_unittest\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4C4C93-512E-447D-895A-991A32BE7074}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{592AA72D-4919-4FBE-ADAB-8BA2B7D2A882}|Labrary1\\Labrary1.csproj|c:\\users\\ngocb\\source\\repos\\labrary1\\labrary1\\lotterynumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{592AA72D-4919-4FBE-ADAB-8BA2B7D2A882}|Labrary1\\Labrary1.csproj|e:\\program_unittest\\program_unittest\\labrary1\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592AA72D-4919-4FBE-ADAB-8BA2B7D2A882}|Labrary1\\Labrary1.csproj|solutionrelative:labrary1\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592AA72D-4919-4FBE-ADAB-8BA2B7D2A882}|Labrary1\\Labrary1.csproj|e:\\program_unittest\\program_unittest\\labrary1\\lotterynumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{592AA72D-4919-4FBE-ADAB-8BA2B7D2A882}|Labrary1\\Labrary1.csproj|solutionrelative:labrary1\\lotterynumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA0C0DA7-177F-4DD0-9D46-DBFC5182404D}|TestSales\\TestProject1.csproj|c:\\users\\ngocb\\source\\repos\\labrary1\\testsales\\unittest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA0C0DA7-177F-4DD0-9D46-DBFC5182404D}|TestSales\\TestProject1.csproj|solutionrelative:testsales\\unittest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{592AA72D-4919-4FBE-ADAB-8BA2B7D2A882}|Labrary1\\Labrary1.csproj|e:\\program_unittest\\program_unittest\\labrary1\\luongmua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592AA72D-4919-4FBE-ADAB-8BA2B7D2A882}|Labrary1\\Labrary1.csproj|solutionrelative:labrary1\\luongmua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592AA72D-4919-4FBE-ADAB-8BA2B7D2A882}|Labrary1\\Labrary1.csproj|e:\\program_unittest\\program_unittest\\labrary1\\numberanlysisprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592AA72D-4919-4FBE-ADAB-8BA2B7D2A882}|Labrary1\\Labrary1.csproj|solutionrelative:labrary1\\numberanlysisprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0C0DA7-177F-4DD0-9D46-DBFC5182404D}|TestSales\\TestProject1.csproj|e:\\program_unittest\\program_unittest\\testsales\\unittest4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0C0DA7-177F-4DD0-9D46-DBFC5182404D}|TestSales\\TestProject1.csproj|solutionrelative:testsales\\unittest4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0C0DA7-177F-4DD0-9D46-DBFC5182404D}|TestSales\\TestProject1.csproj|e:\\program_unittest\\program_unittest\\testsales\\unittest3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0C0DA7-177F-4DD0-9D46-DBFC5182404D}|TestSales\\TestProject1.csproj|solutionrelative:testsales\\unittest3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0C0DA7-177F-4DD0-9D46-DBFC5182404D}|TestSales\\TestProject1.csproj|e:\\program_unittest\\program_unittest\\testsales\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0C0DA7-177F-4DD0-9D46-DBFC5182404D}|TestSales\\TestProject1.csproj|solutionrelative:testsales\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,39 +55,99 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\ngocb\\source\\repos\\Labrary1\\TestSales\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "TestSales\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\ngocb\\source\\repos\\Labrary1\\TestSales\\UnitTest1.cs",
-              "RelativeToolTip": "TestSales\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Program_UnitTest\\Program_UnitTest\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "E:\\Program_UnitTest\\Program_UnitTest\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T08:39:47.809Z",
+              "WhenOpened": "2024-09-29T08:38:52.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LotteryNumbers.cs",
-              "DocumentMoniker": "C:\\Users\\ngocb\\source\\repos\\Labrary1\\Labrary1\\LotteryNumbers.cs",
-              "RelativeDocumentMoniker": "Labrary1\\LotteryNumbers.cs",
-              "ToolTip": "C:\\Users\\ngocb\\source\\repos\\Labrary1\\Labrary1\\LotteryNumbers.cs",
-              "RelativeToolTip": "Labrary1\\LotteryNumbers.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Title": "Sales.cs",
+              "DocumentMoniker": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\Sales.cs",
+              "RelativeDocumentMoniker": "Labrary1\\Sales.cs",
+              "ToolTip": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\Sales.cs",
+              "RelativeToolTip": "Labrary1\\Sales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T08:38:56.06Z"
+              "WhenOpened": "2024-09-29T08:38:48.712Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UnitTest2.cs",
-              "DocumentMoniker": "C:\\Users\\ngocb\\source\\repos\\Labrary1\\TestSales\\UnitTest2.cs",
-              "RelativeDocumentMoniker": "TestSales\\UnitTest2.cs",
-              "ToolTip": "C:\\Users\\ngocb\\source\\repos\\Labrary1\\TestSales\\UnitTest2.cs",
-              "RelativeToolTip": "TestSales\\UnitTest2.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Title": "LotteryNumbers.cs",
+              "DocumentMoniker": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\LotteryNumbers.cs",
+              "RelativeDocumentMoniker": "Labrary1\\LotteryNumbers.cs",
+              "ToolTip": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\LotteryNumbers.cs",
+              "RelativeToolTip": "Labrary1\\LotteryNumbers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T08:17:25.795Z"
+              "WhenOpened": "2024-09-29T08:38:46.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LuongMua.cs",
+              "DocumentMoniker": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\LuongMua.cs",
+              "RelativeDocumentMoniker": "Labrary1\\LuongMua.cs",
+              "ToolTip": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\LuongMua.cs",
+              "RelativeToolTip": "Labrary1\\LuongMua.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:38:43.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\Program_UnitTest\\Program_UnitTest\\TestSales\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestSales\\UnitTest1.cs",
+              "ToolTip": "E:\\Program_UnitTest\\Program_UnitTest\\TestSales\\UnitTest1.cs",
+              "RelativeToolTip": "TestSales\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:25:50.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NumberAnlysisProgram.cs",
+              "DocumentMoniker": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\NumberAnlysisProgram.cs",
+              "RelativeDocumentMoniker": "Labrary1\\NumberAnlysisProgram.cs",
+              "ToolTip": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\NumberAnlysisProgram.cs",
+              "RelativeToolTip": "Labrary1\\NumberAnlysisProgram.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:11:17.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest4.cs",
+              "DocumentMoniker": "E:\\Program_UnitTest\\Program_UnitTest\\TestSales\\UnitTest4.cs",
+              "RelativeDocumentMoniker": "TestSales\\UnitTest4.cs",
+              "ToolTip": "E:\\Program_UnitTest\\Program_UnitTest\\TestSales\\UnitTest4.cs",
+              "RelativeToolTip": "TestSales\\UnitTest4.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA0wDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:11:08.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest3.cs",
+              "DocumentMoniker": "E:\\Program_UnitTest\\Program_UnitTest\\TestSales\\UnitTest3.cs",
+              "RelativeDocumentMoniker": "TestSales\\UnitTest3.cs",
+              "ToolTip": "E:\\Program_UnitTest\\Program_UnitTest\\TestSales\\UnitTest3.cs",
+              "RelativeToolTip": "TestSales\\UnitTest3.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:09:27.995Z"
             }
           ]
         }
