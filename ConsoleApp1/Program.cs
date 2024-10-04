@@ -85,6 +85,54 @@ else
 
 
 
+//// Tạo đối tượng của lớp MonthDays
+//MonthDays monthdays = new MonthDays();
+
+//// Gọi phương thức GetDaysInEachMonth từ đối tượng monthdays
+//string[] result = monthdays.GetDaysInEachMonth();
+
+//// Hiển thị kết quả
+//Console.WriteLine("so ngay cua tung thang trong nam : "+ result[0]);
+
+
+
+// Tạo đối tượng của lớp MonthDays
+MonthDays monthdays = new MonthDays();
+
+// Gọi phương thức GetDaysInEachMonth từ đối tượng monthdays
+string[] result = monthdays.GetDaysInEachMonth();
+
+// Yêu cầu người dùng nhập vị trí tháng (1-12)
+Console.Write("Vui lòng nhập vị trí của tháng (1-12): ");
+string input = Console.ReadLine();
+
+// Chuyển đổi đầu vào từ chuỗi sang số nguyên
+int monthIndex;
+if (int.TryParse(input, out monthIndex))
+{
+    // Trừ 1 vì mảng bắt đầu từ 0
+    monthIndex--;
+
+    // Kiểm tra nếu người dùng nhập đúng vị trí hợp lệ
+    if (monthIndex >= 0 && monthIndex < result.Length)
+    {
+        // Hiển thị số ngày của tháng tương ứng
+        Console.WriteLine(result[monthIndex]);
+    }
+    else
+    {
+        Console.WriteLine("Vui lòng nhập một số trong khoảng từ 1 đến 12.");
+    }
+}
+else
+{
+    Console.WriteLine("Đầu vào không hợp lệ. Vui lòng nhập một số.");
+}
+
+
+
+
+
 
 
 
