@@ -4,7 +4,7 @@
 namespace TestProject1
 {
     [TestClass] 
-    public class UintTest6
+    public class UnitTest6
     {
         [TestMethod] 
         public void TestJanuaryHas31Days()
