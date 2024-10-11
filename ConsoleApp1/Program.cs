@@ -28,14 +28,14 @@ class Program // Tạo lớp cho chương trình
         {
             Console.WriteLine("Không tìm thấy kết quả."); // Thông báo nếu không có kết quả
         }
-    
 
 
-    // Phần logic khác của chương trình
-    // Tính toán và in ra số điện thoại, lượng mưa, số tài khoản, v.v...
 
-    // Ví dụ, phần gọi các phương thức khác
-    Sales.CalculateTotalSales();
+        // Phần logic khác của chương trình
+        // Tính toán và in ra số điện thoại, lượng mưa, số tài khoản, v.v...
+
+        // Ví dụ, phần gọi các phương thức khác
+        Sales.CalculateTotalSales();
         int[] a = LotteryNumbers.GenerateRandomNumbers();
         Console.WriteLine("Day xo so la: ");
         for (int i = 0; i < a.Length; i++)
@@ -99,8 +99,42 @@ class Program // Tạo lớp cho chương trình
         {
             Console.WriteLine("Đầu vào không hợp lệ. Vui lòng nhập một số.");
         }
+
+
+        // Program Payroll
+
+        Payroll payroll = new Payroll(); // Tạo đối tượng từ class Payroll
+
+        // Lấy danh sách mã nhân viên
+        int[] empIds = payroll.GetEmployeeIds();
+
+        // Khởi tạo mảng chứa số giờ làm và mức lương theo giờ
+        int[] hoursWorked = new int[7];
+        double[] hourlyRates = new double[7];
+
+        // Nhập liệu từ người dùng
+        for (int i = 0; i < empIds.Length; i++)
+        {
+            Console.WriteLine($"Nhập số giờ làm cho nhân viên có mã số {empIds[i]}: ");
+            hoursWorked[i] = int.Parse(Console.ReadLine());
+
+            Console.WriteLine($"Nhập mức lương theo giờ cho nhân viên có mã số {empIds[i]}: ");
+            hourlyRates[i] = double.Parse(Console.ReadLine());
+        }
+
+        // Gọi hàm tính lương
+        double[] wages = payroll.CalculateWages(hoursWorked, hourlyRates);
+
+        // Hiển thị kết quả
+        Console.WriteLine("\nKết quả tính lương:");
+        for (int i = 0; i < empIds.Length; i++)
+        {
+            Console.WriteLine($"Mã nhân viên: {empIds[i]}, Lương tổng: {wages[i]:C}");
+        }
+
     }
 }
+
 
 
 

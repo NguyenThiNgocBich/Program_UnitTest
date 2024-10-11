@@ -42,6 +42,21 @@ namespace TestProject1
             // Assert
             Assert.AreEqual(expected, actual);
         }
+
+        [TestMethod]
+        public void PhoneNumberLookup_InvalidName_ReturnsNotFoundMessage()
+        {
+            // Arrange
+            string input = "Kim";
+            string expected = "Person not found. Please try again.";
+
+            // Act
+            string actual = _phoneNumber.PhoneNumberLookup(input);
+
+            // Assert
+            Assert.AreEqual(expected, actual);
+        }
+
     }
 }
 
