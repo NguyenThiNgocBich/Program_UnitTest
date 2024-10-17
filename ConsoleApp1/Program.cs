@@ -26,7 +26,7 @@ class Program // Tạo lớp cho chương trình
         }
         else
         {
-            Console.WriteLine("Không tìm thấy kết quả."); // Thông báo nếu không có kết quả
+            Console.WriteLine("Khong tim thay ket qua."); // Thông báo nếu không có kết quả
         }
 
 
@@ -58,14 +58,14 @@ class Program // Tạo lớp cho chương trình
         Console.WriteLine("Tong luong mua trong nam la: " + tongluongmua);
 
         // Phần xử lý số tài khoản
-        Console.Write("Vui lòng nhập số tài khoản: ");
+        Console.Write("Vui long nhap mot so tai khoan: ");
         int accountNumber;
         if (int.TryParse(Console.ReadLine(), out accountNumber))
         {
             bool isValid = ChargeAccountValidation.AccountValidation(accountNumber);
             if (isValid)
             {
-                Console.WriteLine($"Số tài khoản {accountNumber} là hợp lệ.");
+                Console.WriteLine($"So tai khoan {accountNumber} la hop le.");
             }
             else
             {
@@ -74,14 +74,14 @@ class Program // Tạo lớp cho chương trình
         }
         else
         {
-            Console.WriteLine("Vui lòng nhập một số hợp lệ.");
+            Console.WriteLine("Vui long nhap mot so hop le.");
         }
 
         // Phần xử lý MonthDays
         MonthDays monthdays = new MonthDays();
         string[] monthResult = monthdays.GetDaysInEachMonth();
 
-        Console.Write("Vui lòng nhập vị trí của tháng (1-12): ");
+        Console.Write("Vui long nhap vi tri cua thang (1-12): ");
         string monthInput = Console.ReadLine();
         if (int.TryParse(monthInput, out int monthIndex))
         {
@@ -92,12 +92,12 @@ class Program // Tạo lớp cho chương trình
             }
             else
             {
-                Console.WriteLine("Vui lòng nhập một số trong khoảng từ 1 đến 12.");
+                Console.WriteLine("Vui long nhap mot so trong khoang từ 1 den 12.");
             }
         }
         else
         {
-            Console.WriteLine("Đầu vào không hợp lệ. Vui lòng nhập một số.");
+            Console.WriteLine("Dau vao khong hop le. Vui lòng nhap mot so.");
         }
 
 
@@ -115,10 +115,10 @@ class Program // Tạo lớp cho chương trình
         // Nhập liệu từ người dùng
         for (int i = 0; i < empIds.Length; i++)
         {
-            Console.WriteLine($"Nhập số giờ làm cho nhân viên có mã số {empIds[i]}: ");
+            Console.WriteLine($"Nhap so gio lam cho nhan vien có ma so {empIds[i]}: ");
             hoursWorked[i] = int.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Nhập mức lương theo giờ cho nhân viên có mã số {empIds[i]}: ");
+            Console.WriteLine($"Nhap muc lương theo gio cho nhan vien có ma so {empIds[i]}: ");
             hourlyRates[i] = double.Parse(Console.ReadLine());
         }
 
@@ -126,12 +126,21 @@ class Program // Tạo lớp cho chương trình
         double[] wages = payroll.CalculateWages(hoursWorked, hourlyRates);
 
         // Hiển thị kết quả
-        Console.WriteLine("\nKết quả tính lương:");
+        Console.WriteLine("\nKet qua tinh lương:");
         for (int i = 0; i < empIds.Length; i++)
         {
-            Console.WriteLine($"Mã nhân viên: {empIds[i]}, Lương tổng: {wages[i]:C}");
+            Console.WriteLine($"Ma nhan vien: {empIds[i]}, Luong tong: {wages[i]:C}");
         }
-
+        for (int i = 0; i < empIds.Length; i++)
+        {
+            Console.WriteLine(i);
+            Console.WriteLine($"Ma nhan vien:{empIds[i]}");
+        }
+        int vt = 0;
+        Console.WriteLine("Nhap vao nhan vien ban muon tinh luong: ");
+        vt = int.Parse(Console.ReadLine());
+        double totalwages = payroll.CalculateWagesByPosition(vt, hoursWorked, hourlyRates);
+        Console.WriteLine($"Luong cua nhan vien o vi tri {vt} la : {totalwages}");
     }
 }
 

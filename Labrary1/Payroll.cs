@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Labrary1
 {
-   public class Payroll
+    public class Payroll
     {
         private int[] empId = { 56588, 45201, 78951, 87775, 84512, 13028, 75804 };
         private int[] hours = new int[7];
@@ -24,7 +24,20 @@ namespace Labrary1
             }
             return wages; // Trả về mảng lương tổng
         }
-
+        //tính lương của người được chọn:
+        public double CalculateWagesByPosition(int vt, int[] hoursWorked, double[] hourlyRates)
+        {
+            double totalWages = 0;
+            for(int i = 0; i < empId.Length; i++)
+            {
+                if (i == vt) {
+                    hours[i] = hoursWorked[i];
+                    payRate[i] = hourlyRates[i];
+                    totalWages = hours[i] * payRate[i];
+                }
+            }
+            return totalWages;
+        }
         public int[] GetEmployeeIds()
         {
             return empId; // Trả về danh sách mã nhân viên

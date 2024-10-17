@@ -3,36 +3,20 @@
   "WorkspaceRootPath": "E:\\Program_UnitTest\\Program_UnitTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA4C4C93-512E-447D-895A-991A32BE7074}|ConsoleApp1\\ConsoleApp1.csproj|e:\\program_unittest\\program_unittest\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA4C4C93-512E-447D-895A-991A32BE7074}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA0C0DA7-177F-4DD0-9D46-DBFC5182404D}|TestSales\\TestProject1.csproj|e:\\program_unittest\\program_unittest\\testsales\\unittest8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0C0DA7-177F-4DD0-9D46-DBFC5182404D}|TestSales\\TestProject1.csproj|solutionrelative:testsales\\unittest8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0C0DA7-177F-4DD0-9D46-DBFC5182404D}|TestSales\\TestProject1.csproj|e:\\program_unittest\\program_unittest\\testsales\\unittest6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0C0DA7-177F-4DD0-9D46-DBFC5182404D}|TestSales\\TestProject1.csproj|solutionrelative:testsales\\unittest6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{592AA72D-4919-4FBE-ADAB-8BA2B7D2A882}|Labrary1\\Labrary1.csproj|e:\\program_unittest\\program_unittest\\labrary1\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{592AA72D-4919-4FBE-ADAB-8BA2B7D2A882}|Labrary1\\Labrary1.csproj|solutionrelative:labrary1\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA0C0DA7-177F-4DD0-9D46-DBFC5182404D}|TestSales\\TestProject1.csproj|e:\\program_unittest\\program_unittest\\testsales\\unittest7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA0C0DA7-177F-4DD0-9D46-DBFC5182404D}|TestSales\\TestProject1.csproj|solutionrelative:testsales\\unittest7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{592AA72D-4919-4FBE-ADAB-8BA2B7D2A882}|Labrary1\\Labrary1.csproj|e:\\program_unittest\\program_unittest\\labrary1\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{592AA72D-4919-4FBE-ADAB-8BA2B7D2A882}|Labrary1\\Labrary1.csproj|solutionrelative:labrary1\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{592AA72D-4919-4FBE-ADAB-8BA2B7D2A882}|Labrary1\\Labrary1.csproj|e:\\program_unittest\\program_unittest\\labrary1\\lotterynumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{592AA72D-4919-4FBE-ADAB-8BA2B7D2A882}|Labrary1\\Labrary1.csproj|solutionrelative:labrary1\\lotterynumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{592AA72D-4919-4FBE-ADAB-8BA2B7D2A882}|Labrary1\\Labrary1.csproj|e:\\program_unittest\\program_unittest\\labrary1\\numberanlysisprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{592AA72D-4919-4FBE-ADAB-8BA2B7D2A882}|Labrary1\\Labrary1.csproj|solutionrelative:labrary1\\numberanlysisprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{592AA72D-4919-4FBE-ADAB-8BA2B7D2A882}|Labrary1\\Labrary1.csproj|e:\\program_unittest\\program_unittest\\labrary1\\monthdays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{592AA72D-4919-4FBE-ADAB-8BA2B7D2A882}|Labrary1\\Labrary1.csproj|solutionrelative:labrary1\\monthdays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{592AA72D-4919-4FBE-ADAB-8BA2B7D2A882}|Labrary1\\Labrary1.csproj|e:\\program_unittest\\program_unittest\\labrary1\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{592AA72D-4919-4FBE-ADAB-8BA2B7D2A882}|Labrary1\\Labrary1.csproj|solutionrelative:labrary1\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA4C4C93-512E-447D-895A-991A32BE7074}|ConsoleApp1\\ConsoleApp1.csproj|e:\\program_unittest\\program_unittest\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4C4C93-512E-447D-895A-991A32BE7074}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,101 +38,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Payroll.cs",
-              "DocumentMoniker": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\Payroll.cs",
-              "RelativeDocumentMoniker": "Labrary1\\Payroll.cs",
-              "ToolTip": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\Payroll.cs",
-              "RelativeToolTip": "Labrary1\\Payroll.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T06:56:44.559Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Program_UnitTest\\Program_UnitTest\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "E:\\Program_UnitTest\\Program_UnitTest\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAgwG4AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAAI0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T15:22:00.084Z",
+              "WhenOpened": "2024-10-17T07:21:48.894Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LotteryNumbers.cs",
-              "DocumentMoniker": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\LotteryNumbers.cs",
-              "RelativeDocumentMoniker": "Labrary1\\LotteryNumbers.cs",
-              "ToolTip": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\LotteryNumbers.cs",
-              "RelativeToolTip": "Labrary1\\LotteryNumbers.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T15:35:28.952Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MonthDays.cs",
-              "DocumentMoniker": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\MonthDays.cs",
-              "RelativeDocumentMoniker": "Labrary1\\MonthDays.cs",
-              "ToolTip": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\MonthDays.cs",
-              "RelativeToolTip": "Labrary1\\MonthDays.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T15:35:24.936Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NumberAnlysisProgram.cs",
-              "DocumentMoniker": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\NumberAnlysisProgram.cs",
-              "RelativeDocumentMoniker": "Labrary1\\NumberAnlysisProgram.cs",
-              "ToolTip": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\NumberAnlysisProgram.cs",
-              "RelativeToolTip": "Labrary1\\NumberAnlysisProgram.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T15:35:19.487Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Sales.cs",
-              "DocumentMoniker": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\Sales.cs",
-              "RelativeDocumentMoniker": "Labrary1\\Sales.cs",
-              "ToolTip": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\Sales.cs",
-              "RelativeToolTip": "Labrary1\\Sales.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T15:35:15.17Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PhoneNumber.cs",
-              "DocumentMoniker": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\PhoneNumber.cs",
-              "RelativeDocumentMoniker": "Labrary1\\PhoneNumber.cs",
-              "ToolTip": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\PhoneNumber.cs",
-              "RelativeToolTip": "Labrary1\\PhoneNumber.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T08:32:36.325Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UnitTest7.cs",
-              "DocumentMoniker": "E:\\Program_UnitTest\\Program_UnitTest\\TestSales\\UnitTest7.cs",
-              "RelativeDocumentMoniker": "TestSales\\UnitTest7.cs",
-              "ToolTip": "E:\\Program_UnitTest\\Program_UnitTest\\TestSales\\UnitTest7.cs",
-              "RelativeToolTip": "TestSales\\UnitTest7.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwDEAAAAfAAAAAAAAAA==",
+              "Title": "Payroll.cs",
+              "DocumentMoniker": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\Payroll.cs",
+              "RelativeDocumentMoniker": "Labrary1\\Payroll.cs",
+              "ToolTip": "E:\\Program_UnitTest\\Program_UnitTest\\Labrary1\\Payroll.cs",
+              "RelativeToolTip": "Labrary1\\Payroll.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowB4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T08:32:30.934Z"
+              "WhenOpened": "2024-10-17T03:35:55.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest6.cs",
+              "DocumentMoniker": "E:\\Program_UnitTest\\Program_UnitTest\\TestSales\\UnitTest6.cs",
+              "RelativeDocumentMoniker": "TestSales\\UnitTest6.cs",
+              "ToolTip": "E:\\Program_UnitTest\\Program_UnitTest\\TestSales\\UnitTest6.cs",
+              "RelativeToolTip": "TestSales\\UnitTest6.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:26:09.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest8.cs",
+              "DocumentMoniker": "E:\\Program_UnitTest\\Program_UnitTest\\TestSales\\UnitTest8.cs",
+              "RelativeDocumentMoniker": "TestSales\\UnitTest8.cs",
+              "ToolTip": "E:\\Program_UnitTest\\Program_UnitTest\\TestSales\\UnitTest8.cs",
+              "RelativeToolTip": "TestSales\\UnitTest8.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:13:46.485Z",
+              "EditorCaption": ""
             }
           ]
         }
