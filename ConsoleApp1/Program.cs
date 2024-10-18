@@ -141,6 +141,25 @@ class Program // Tạo lớp cho chương trình
         vt = int.Parse(Console.ReadLine());
         double totalwages = payroll.CalculateWagesByPosition(vt, hoursWorked, hourlyRates);
         Console.WriteLine($"Luong cua nhan vien o vi tri {vt} la : {totalwages}");
+
+        //Tổng số câu đúng của học sinh
+        License_Exam exam = new License_Exam();
+        string[] userAnswer = new string[20];
+        for (int i = 0; i < 20; i++)
+        {
+            Console.WriteLine($"Cau {i+1} co dap an la: ");
+            userAnswer[i] = Console.ReadLine();
+        }
+        int toltalAnswerCorrect = exam.totalCorrectAnswer(userAnswer);
+        if (toltalAnswerCorrect >= 15) {
+            Console.WriteLine("You are pass");
+            Console.WriteLine(toltalAnswerCorrect);
+        }
+        else
+        {
+            Console.WriteLine("you not pass");
+            Console.WriteLine(toltalAnswerCorrect);
+        }
     }
 }
 
